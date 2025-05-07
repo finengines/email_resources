@@ -1,0 +1,8 @@
+# Sample batch file for video to GIF conversion
+# Add your video paths below, one per line
+# Lines starting with # are treated as comments
+
+# Example entries (replace with your actual video paths):
+# /Users/fin/Documents/videos/clip1.mp4
+# /Users/fin/Documents/videos/clip2.mov
+# /Users/fin/Downloads/video.avi 

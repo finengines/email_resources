@@ -1,0 +1,18 @@
+# Ignore video files
+*.mov
+
+# Ignore macOS system files
+.DS_Store
+
+# Ignore Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ignore temporary palette files
+*_palette.png
+
+# Ignore virtual environments
+venv/
+env/
+.env/ 
